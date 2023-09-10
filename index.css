@@ -1,0 +1,34 @@
+* {
+    background-color: rgb(182, 182, 192);
+  }
+
+  .h {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 45px;
+  }
+
+div {
+   text-align: center;
+}
+
+.inp{
+    font-size: 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    border: 2px solid black;
+}
+
+#btn{
+    font-size: 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(75, 77, 207);
+    font-weight: lighter;
+    color: white;
+    border: 2px solid black;
+}
+
+
+
